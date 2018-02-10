@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   TokenStream operates at the heart of the token economy by aggregating and providing downloadable, real-time time digital assets trading data from all major token exchanges. A must have tool for any serious cryptoasset trader!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: #tokenstream
+twitter_username: tokenstream_twitter
 github_username:  tokenstream
 
 # Build settings
