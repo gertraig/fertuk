@@ -1,4 +1,4 @@
-# Welcome to TokenStream!
+# Welcome to Dorks United!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: TokenStream | Digital Assets Trading Data Aggregator
-email: info@tokenstream.co
+title: Dorks United | On-Demand Baby Delivery Service
+email: info@dorks-united.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  TokenStream operates at the heart of the token economy by aggregating and providing downloadable, real-time time digital assets trading data from all major token exchanges. A must have tool for any serious cryptoasset trader!
+  Dorks United operates at the heart of the reproduction cycle, offering useful tips and suggestions from our fertility gurus. A must have tool for any wannabe mums and dads!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: tokenstream_twitter
-github_username:  tokenstream
+twitter_username: dorksunited_twitter
+github_username:  dorksunited
 
 # Build settings
 markdown: kramdown
